@@ -1,0 +1,2 @@
+Neste exemplo, usei uma expressão regular (/^\d{6}$/) para verificar se o número de conta possui exatamente 6 dígitos. Em seguida, converti o número de conta em um array de dígitos para facilitar a aplicação das regras de validação. O código verifica se o primeiro dígito é maior que zero e se a soma dos dígitos é menor ou igual a 30. Dependendo do resultado, uma mensagem adequada é exibida ao usuário.
+
